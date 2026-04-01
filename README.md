@@ -1,43 +1,72 @@
-# Sales-Performance-Analysis
-Superstore Sales Analyses
-# Sales Performance Analysis Dashboard (2015–2018)
+# 📊 Sales Performance Analysis Dashboard (2015–2018)
 
-## Project Overview
-This project analyzes a retail sales dataset (2015–2018) to identify key sales trends, regional performance, category-wise contribution, and top-performing products.  
-An interactive dashboard was built using Power BI to visualize KPIs and business insights.
+## 🧠 Project Overview
+This project performs an end-to-end analysis of a retail sales dataset from 2015 to 2018.  
+The goal is to understand sales trends, regional performance, category contributions, and top-selling products, and present insights in an interactive dashboard created using Power BI.
 
-## Tools & Technologies
-- Python (Pandas)
-- SQL (for analytical queries)
-- Power BI (Dashboard & Visualizations)
-- Excel (basic exploration)
+---
 
-## Key Analysis Performed
-- Total sales KPI calculation
-- Sales trend analysis (Year-wise and Monthly)
-- Regional sales performance comparison
-- Category-wise sales contribution analysis
-- Top 10 products by total revenue
+## 🛠 Tools & Technologies
+- **Python (Pandas)** — for data cleaning and exploratory analysis  
+- **SQL-style Aggregations** — for structured querying logic  
+- **Power BI** — for building interactive dashboards  
+- **Excel / Jupyter Notebook** — for data exploration
 
-## Key Insights
-- Total sales from 2015–2018: **2.26M**
-- Highest sales recorded in **2018**
-- **West** region generated the highest revenue
-- **Technology** category contributed the most sales
-- Top 10 products contributed significantly to total revenue
+---
 
-## Dashboard Features (Power BI)
-- KPI Cards (Total Sales, Total Customers, Total Orders)
-- Sales Trend Line Chart (Year-wise)
-- Sales by Region (Bar Chart)
-- Sales by Category (Column Chart)
-- Top 10 Products Table
-- Interactive slicers (Year, Region, Category, Segment)
+## 📈 Key Analysis Performed
+- Calculated total sales over four years  
+- Analyzed year-over-year and month-level sales trends  
+- Evaluated regional sales performance  
+- Assessed category contribution to total revenue  
+- Identified top 10 products by sales value
 
-## Files Included
-- `sales_analysis.ipynb` - Python analysis notebook
-- `Sales_Performance_Dashboard.pbix` - Power BI dashboard file
-- `dashboard.png` - Dashboard screenshot
+---
 
-## Author
-[Shalu]
+## 💡 Key Insights
+- **Total Sales (2015–2018):** ~2.26M  
+- **Highest Revenue Year:** 2018  
+- **Top Region:** West  
+- **Leading Category:** Technology  
+- Top 10 products contributed significantly to overall revenue
+
+---
+
+## 📊 Dashboard Features (Power BI)
+The interactive Power BI dashboard includes:
+- KPI Cards (Total Sales, Total Customers, Total Orders)  
+- Yearly Sales Trend Line Chart  
+- Regional Sales Comparison  
+- Category Sales Distribution  
+- Top 10 Products Table  
+- Slicers (Year, Region, Category, Segment) for dynamic filtering
+
+---
+
+## 📂 Files in This Repository
+- **`sales_analysis.ipynb`** – Python notebook with exploratory data analysis  
+- **`Sales_Performance_Dashboard.pbix`** – Power BI dashboard file (if available)  
+- **`dashboard.png`** – Screenshot of the dashboard view  
+- **`README.md`** – Project description (this file)
+
+---
+
+## 📌 How to Use
+1. Open and explore the dataset using the Jupyter notebook  
+2. Load `train.csv` into Power BI to view the interactive dashboard  
+3. Use slicers to filter by year, region, category, and segment
+
+---
+
+## 👩‍💻 About the Author
+**Shalu**
+- MSc in Computer Science
+- Focus: Data Analysis, Python, SQL, Business Intelligence
+- GitHub: https://github.com/shalu310
+
+---
+
+## 📬 Connect
+Feel free to connect and reach out for collaboration or feedback!
+
+---
